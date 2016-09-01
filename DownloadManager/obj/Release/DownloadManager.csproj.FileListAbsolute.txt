@@ -1,0 +1,12 @@
+E:\C#\DownloadManager\DownloadManager\bin\Release\DownloadManager.exe.config
+E:\C#\DownloadManager\DownloadManager\bin\Release\DownloadManager.exe
+E:\C#\DownloadManager\DownloadManager\bin\Release\DownloadManager.pdb
+E:\C#\DownloadManager\DownloadManager\obj\Release\DownloadManager.csprojResolveAssemblyReference.cache
+E:\C#\DownloadManager\DownloadManager\obj\Release\DownloadManager.frmAddurl.resources
+E:\C#\DownloadManager\DownloadManager\obj\Release\DownloadManager.frmDownloader.resources
+E:\C#\DownloadManager\DownloadManager\obj\Release\DownloadManager.frmMain.resources
+E:\C#\DownloadManager\DownloadManager\obj\Release\DownloadManager.frmSetting.resources
+E:\C#\DownloadManager\DownloadManager\obj\Release\DownloadManager.Properties.Resources.resources
+E:\C#\DownloadManager\DownloadManager\obj\Release\DownloadManager.csproj.GenerateResource.Cache
+E:\C#\DownloadManager\DownloadManager\obj\Release\DownloadManager.exe
+E:\C#\DownloadManager\DownloadManager\obj\Release\DownloadManager.pdb
